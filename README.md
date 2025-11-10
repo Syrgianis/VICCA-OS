@@ -1,4 +1,18 @@
-![VICCA OS Banner](./vicca-os-banner.png)
+<p align="center">
+  <img src="YOUR-COPIED-LINK-HERE" alt="VICCA OS Banner" width="800">
+</p>
+
+<h1 align="center">VICCA OS</h1>
+<h3 align="center">Virtual Integrated Cloud Compliance Architecture</h3>
+
+<p align="center">
+  <b>Founder & Architect — Nikolas Syrgianis</b><br>
+  A next-generation compliance automation platform unifying <b>Tagger → Monitor → Remediator</b>.<br>
+  Designed for Cloud GRC, AI Governance & Risk Automation.
+</p>
+
+---
+
 # VICCA OS  
 **Virtual Integrated Cloud Compliance Architecture**
 
