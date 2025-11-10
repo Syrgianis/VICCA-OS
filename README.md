@@ -1,14 +1,24 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Syrgianis/VICCA-OS/main/vicca-banner.png" alt="VICCA OS Banner" width="800">
+<p align="center" style="margin-bottom: 10px;">
+  <img src="https://raw.githubusercontent.com/Syrgianis/VICCA-OS/main/vicca-banner.png" 
+       alt="VICCA OS Banner" 
+       width="100%" 
+       style="max-width: 900px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
 </p>
+
+<hr style="border: 1px solid #d4af37; width: 80%; margin: auto;">
 
 <h1 align="center">VICCA OS</h1>
 <h3 align="center">Virtual Integrated Cloud Compliance Architecture</h3>
 
 <p align="center">
-  <b>Founder & Architect — Nikolas Syrgianis</b><br>
-  A next-generation compliance automation platform unifying <b>Tagger → Monitor → Remediator</b>.<br>
-  Designed for Cloud GRC, AI Governance & Risk Automation.
+  <b>Founder &amp; Architect – Nikolas Syrgianis</b><br>
+  A next-generation compliance automation platform unifying 
+  <b>Tagger → Monitor → Remediator</b>.<br>
+  Designed for Cloud GRC, AI Governance &amp; Risk Automation.
+</p>
+
+<hr style="border: 1px solid #d4af37; width: 60%; margin: auto; margin-top: 15px;">
+
 </p>
 
 ---
