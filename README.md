@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Syrgianis/VICCA-OS/main/ChatGPT%20Image%20Nov%2010%2C%202025_%2006_29_35%20PM.png" alt="VICCA OS Banner" width="800">
+  <img src="https://raw.githubusercontent.com/Syrgianis/VICCA-OS/main/vicca-banner.png" alt="VICCA OS Banner" width="800">
 </p>
 
 <h1 align="center">VICCA OS</h1>
