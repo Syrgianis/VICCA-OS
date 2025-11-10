@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR-COPIED-LINK-HERE" alt="VICCA OS Banner" width="800">
+  <img src=https://github.com/Syrgianis/VICCA-OS/raw/refs/heads/main/README.md alt="VICCA OS Banner" width="800">
 </p>
 
 <h1 align="center">VICCA OS</h1>
