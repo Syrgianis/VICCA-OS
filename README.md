@@ -2,8 +2,6 @@
   <img src="https://github.com/Syrgianis/VICCA-OS/raw/main/ChatGPT%20Image%20Nov%2010%2C%202025_%2006_29_35%20PM.png" alt="VICCA OS Banner" width="800">
 </p>
 
-</p>
-
 <h1 align="center">VICCA OS</h1>
 <h3 align="center">Virtual Integrated Cloud Compliance Architecture</h3>
 
