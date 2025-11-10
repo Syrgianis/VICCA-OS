@@ -1,3 +1,4 @@
+![VICCA OS Banner](./vicca-os-banner.png)
 # VICCA OS  
 **Virtual Integrated Cloud Compliance Architecture**
 
