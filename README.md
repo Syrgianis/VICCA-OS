@@ -8,7 +8,7 @@
 <hr style="border: 1px solid #d4af37; width: 80%; margin: auto;">
 
 <h1 align="center">VICCA OS</h1>
-<h3 align="center">Virtual Integrated Cloud Compliance Architecture</h3>
+<h3 align="center">Virtual Intelligenc Cloud Compliance Automation</h3>
 
 <p align="center">
   <b>Founder &amp; Architect – Nikolas Syrgianis</b><br>
